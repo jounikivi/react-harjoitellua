@@ -1,2 +1,2 @@
-# react-harjoitellua
+# react-harjoittellua
 Opettelen react sovellukset tekoa
